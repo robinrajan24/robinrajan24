@@ -20,7 +20,7 @@ I'm a **Frontend Developer** with 3+ years of experience building modern, respon
 - Opportunities to grow into a senior frontend role  
 
 ### 📫 Connect with me
-- LinkedIn: www.linkedin.com/in/robin-rajan-438925201https://linkedin.com/in/robin-rajan  
+- LinkedIn: www.linkedin.com/in/robin-rajan-438925201
 
 
 ✨ Always curious, always learning.
