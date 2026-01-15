@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 I'm Robin Rajan
 
-<!--
-**robinrajan24/robinrajan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** with 3+ years of experience building modern, responsive web applications using **Angular and React**. I enjoy turning complex ideas into clean, user-friendly interfaces and writing scalable, maintainable code.
 
-Here are some ideas to get you started:
+### 🔧 What I work with
+- Angular (9–17), React, Next.js  
+- TypeScript, JavaScript (ES6+), HTML, CSS  
+- Tailwind CSS, Material UI, Bootstrap  
+- RxJS, NgRx, Redux Toolkit  
+- REST APIs, Git, Agile workflows  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently learning
+- Advanced React patterns  
+- Frontend performance optimization  
+- AI-assisted development workflows  
+
+### 💼 What I’m looking for
+- Frontend / UI Engineer roles  
+- Angular or React-based projects  
+- Opportunities to grow into a senior frontend role  
+
+### 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/robin-rajan  
+- GitHub: https://github.com/robinrajan24  
+- Email: robinrajan24@gmail.com  
+
+✨ Always curious, always learning.
